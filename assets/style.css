@@ -1,0 +1,15 @@
+#header{
+    width: 99%;
+    border-color: aquamarine;
+    border-width: 5px;
+    
+
+}
+body{
+    background-color: #fffff0;
+}
+
+.display-4{
+    color: black;
+    text-shadow: 5px;
+}
